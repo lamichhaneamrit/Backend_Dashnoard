@@ -1,0 +1,14 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Backend for the upcoming project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AMRIT lAMICHHANE",
+  "license": "ISC",
+  "devDependencies": {
+    "liveserver": "^0.1.20"
+  }
+}
